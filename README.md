@@ -1,6 +1,6 @@
 # Snake Game
 
-This is a classic Snake Game implemented using Python's `turtle` module. The goal of the game is to control the snake and eat the food to increase the score. The snake grows as it eats, and the game ends when the snake hits the wall or its own body.
+This is my repository recreating the classic Snake Game using Python's `turtle` module. The goal of the game is to control the snake and eat the food to increase the score. The snake grows as it eats, and the game ends when the snake hits the wall or its own body.
 
 ## Features
 - Snake movement with up, down, left, and right arrow keys
