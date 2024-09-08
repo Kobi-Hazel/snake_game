@@ -49,3 +49,7 @@ To run this game, you will need:
 
 ## Example Gameplay
 
+Here's a GIF showing the Snake Game in action:
+
+![Gameplay GIF](gameplay.gif)
+
