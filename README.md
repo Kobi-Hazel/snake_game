@@ -1,6 +1,6 @@
 # Snake Game
 
-This is my repository recreating the classic Snake Game using Python's `turtle` module as part of the '100 Days of Code: The Complete Python Pro Bootcamp' online course on Udemy. The goal of the game is to control the snake and eat the food to increase the score. The snake grows as it eats, and the game ends when the snake hits the wall or its own body.
+This is my repository recreating the classic Snake Game using Python's `turtle` module as part of the [100 Days of Code: The Complete Python Pro Bootcamp](https://www.udemy.com/course/100-days-of-code/?couponCode=ST21MT121624) online course on Udemy. The goal of the game is to control the snake and eat the food to increase the score. The snake grows as it eats, and the game ends when the snake hits the wall or its own body.
 
 ## Features
 - Snake movement with up, down, left, and right arrow keys
